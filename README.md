@@ -1,1 +1,3 @@
-# quete5_merge_conflits
+Ecriture de quelques lignes
+pour préparer la résolution
+de conflits
